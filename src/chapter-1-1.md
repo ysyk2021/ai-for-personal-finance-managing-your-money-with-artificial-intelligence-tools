@@ -1,5 +1,3 @@
-Understanding the Role of AI in Personal Finance
-====================================================================================================
 
 Artificial intelligence (AI) has become an increasingly important tool in personal finance management. In this chapter, we'll explore the role of AI in personal finance and how it can be used to improve financial decision-making.
 

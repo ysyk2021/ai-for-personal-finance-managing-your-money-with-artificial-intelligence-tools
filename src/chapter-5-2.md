@@ -1,5 +1,3 @@
-Personalized Debt Management Recommendations and Interventions using AI
-=======================================================================================================================
 
 Credit management is an essential aspect of personal finance, and AI technology offers new opportunities for personalized debt management recommendations and interventions. In this chapter, we'll explore some strategies for improving credit management with AI.
 

@@ -1,5 +1,3 @@
-Automated Deduction and Refund Optimization using AI
-================================================================================================================
 
 Artificial Intelligence (AI) is revolutionizing the way we prepare and file our taxes. By automating many of the tedious and time-consuming tasks associated with tax preparation, AI can help individuals save time, reduce errors, and optimize their refunds.
 

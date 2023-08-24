@@ -1,5 +1,3 @@
-AI-Powered Investment Analysis and Decision-Making Support
-=============================================================================================================
 
 Investment decisions can be complex, but AI technology offers new opportunities for enhancing investment strategies. In this chapter, we'll explore how AI-powered investment analysis and decision-making support can help individuals make informed investment decisions.
 

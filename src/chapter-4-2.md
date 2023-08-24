@@ -1,5 +1,3 @@
-Automated Portfolio Management using AI
-==========================================================================================
 
 Investment decisions can be complex, but AI technology offers new opportunities for enhancing investment strategies. In this chapter, we'll explore how automated portfolio management using AI can help individuals make informed investment decisions.
 

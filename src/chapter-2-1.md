@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-==============================================================================================================
 
 AI technology offers new opportunities for enhancing personal finance management. In this chapter, we'll explore the tools and technologies available for implementing AI-driven personal finance strategies.
 

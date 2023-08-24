@@ -1,5 +1,3 @@
-Chapter 5: Improving Credit Management with AI
-==============================================
 
 Credit management is a critical aspect of personal finance, and AI technology offers new opportunities for improving credit scores and managing debt. In this chapter, we'll explore how AI can help individuals improve their credit management strategies.
 

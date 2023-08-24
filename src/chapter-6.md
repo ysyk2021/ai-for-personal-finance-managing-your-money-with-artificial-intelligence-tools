@@ -1,5 +1,3 @@
-Chapter 6: Streamlining Tax Preparation and Filing with AI
-==========================================================
 
 Tax preparation and filing can be a time-consuming and stressful process, but AI technology offers new opportunities for streamlining these tasks. In this chapter, we'll explore some strategies for streamlining tax preparation and filing with AI.
 

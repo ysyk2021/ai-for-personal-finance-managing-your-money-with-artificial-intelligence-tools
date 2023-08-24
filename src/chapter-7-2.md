@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-===========================================================================================================
 
 The use of AI technology in personal finance management offers many benefits, but it also presents ethical and legal risks. In this chapter, we'll explore how to mitigate these risks and ensure compliance with ethical and legal standards.
 

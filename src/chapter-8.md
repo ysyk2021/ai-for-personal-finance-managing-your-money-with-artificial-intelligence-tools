@@ -1,5 +1,3 @@
-Chapter 8: Future Trends and Opportunities for AI-Driven Personal Finance
-=========================================================================
 
 Emerging Trends in AI for Personal Finance and Wealth Management
 ----------------------------------------------------------------
